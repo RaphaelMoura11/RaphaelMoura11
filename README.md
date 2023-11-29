@@ -1,7 +1,7 @@
 <h1>Oi ✌</h1>
 <h2>Meu nome é Raphael e seja bem vindo ao meu perfil.</h2>
 <p>Sou um desenvolvedor front-end jr em busca de minha primeira oportunidade profissional.</p>
-<p>Aqui você vai encontrar uns projetos de desafios, cursos, pessoais concluidos e inacabados(que provavelmente nunca serão recontinuados mas ficam como um lembrete/falsa esperança de termino).</p>
+<p>Aqui você vai encontrar uns projetos de desafios, cursos, projetos pessoais concluidos e inacabados(que provavelmente nunca serão recontinuados mas ficam como um lembrete/falsa esperança de termino).</p>
 
 <h3> Perfil ainda em construção. Só testando uns designs populares enquanto não termino.</h3>
 <div>
